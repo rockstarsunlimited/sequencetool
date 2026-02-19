@@ -1,6 +1,6 @@
 # Sequence Tool™
 
-**Sequence Tool** is a native macOS app for transcription and media workflows, from [Rock Stars Unlimited Ltd](https://sequencetool.com).
+**Sequence Tool** is a native macOS app for transcription and media workflows, from [Rock Stars Unlimited Ltd](https://rockstarsunlimited.co).
 
 ## Website
 
