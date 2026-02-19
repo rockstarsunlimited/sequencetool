@@ -1,0 +1,8 @@
+local
+*.code-workspace
+
+app/
+backend/
+web/
+
+.DS_Store
