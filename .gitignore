@@ -6,3 +6,5 @@ backend/
 web/
 
 .DS_Store
+
+.cursor/
