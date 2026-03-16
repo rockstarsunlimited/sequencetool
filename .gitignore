@@ -8,3 +8,5 @@ web/
 .DS_Store
 
 .cursor/
+.vscode/
+biome.jsonc
