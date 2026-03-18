@@ -8,5 +8,7 @@ backend/
 web/
 brand/
 
+node_modules/
+
 .DS_Store
 package.json
