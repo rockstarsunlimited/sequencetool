@@ -4,6 +4,7 @@ local
 app/
 backend/
 web/
+brand/
 
 .DS_Store
 
