@@ -1,12 +1,12 @@
-local
 *.code-workspace
+.cursor/
+.vscode/
 
+local/
 app/
 backend/
 web/
 brand/
 
 .DS_Store
-
-.cursor/
-.vscode/
+package.json
