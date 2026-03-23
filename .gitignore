@@ -1,5 +1,6 @@
 *.code-workspace
 .cursor/
+.claude/
 .vscode/
 
 local/
