@@ -2,6 +2,7 @@
 .cursor/
 .claude/
 .vscode/
+.fallow/
 
 local/
 app/
