@@ -2,7 +2,13 @@
 
 <img src="https://sequencetool.com/img/sequence-app-icon.png" width="72" alt="Sequence Tool app icon">
 
-**Sequence Tool** is a native macOS app for turning long-form spoken video into a clear, editable rough cut.
+**Sequence Tool** is a native (Swift + Rust) macOS app for turning long-form spoken video into a clear, editable rough cut.
+
+[![App Release](https://img.shields.io/github/v/release/rockstarsunlimited/sequencetool?filter=v*&display_name=tag&label=App%20Release&sort=semver&style=flat-square&color=fff)](https://github.com/rockstarsunlimited/sequencetool/releases)
+[![CLI Release](https://img.shields.io/github/v/release/rockstarsunlimited/sequencetool?filter=cli-v*&display_name=tag&label=CLI%20Release&sort=semver&style=flat-square&color=fff)](https://github.com/rockstarsunlimited/sequencetool/releases)
+[![macOS 15+](https://img.shields.io/badge/macOS-15%2B-fff?style=flat-square&logo=apple&logoColor=white)](https://sequencetool.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5E5CE6?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/7ZNqd2GNeN)
+[![X](https://img.shields.io/badge/%40sequencetool-000?style=flat-square&logo=x&logoColor=fff&label)](https://x.com/sequencetool)
 
 It helps podcast editors, video creators, and post-production teams transcribe recordings on-device, find the moments that matter, clean up the first pass, and move forward with a cut that is ready to export or continue in Final Cut Pro or DaVinci Resolve.
 
