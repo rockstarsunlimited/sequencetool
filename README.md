@@ -14,6 +14,8 @@ It helps podcast editors, video creators, and post-production teams transcribe r
 
 [Visit Sequence Tool](https://sequencetool.com) · [Download Sequence](https://sequencetool.com/download) · [Report an issue](../../issues/new/choose)
 
+<img src="assets/sq-1.4.jpeg" alt="Sequence Tool editing a video transcript, with silence and filler words marked for removal and a clip timeline below">
+
 ## What Sequence does
 
 Sequence is built for the work that comes before the creative finishing pass:
