@@ -4,6 +4,8 @@
 
 **Sequence Tool** is a native (Swift + Rust) macOS app for turning long-form spoken video into a clear, editable rough cut.
 
+<img src="assets/sq-1.4.png" alt="Sequence Tool editing a video transcript, with silence and filler words marked for removal and a clip timeline below">
+
 [![App Release](https://img.shields.io/github/v/release/rockstarsunlimited/sequencetool?filter=v*&display_name=tag&label=App%20Release&sort=semver&style=flat-square&color=fff)](https://github.com/rockstarsunlimited/sequencetool/releases)
 [![CLI Release](https://img.shields.io/github/v/release/rockstarsunlimited/sequencetool?filter=cli-v*&display_name=tag&label=CLI%20Release&sort=semver&style=flat-square&color=fff)](https://github.com/rockstarsunlimited/sequencetool/releases)
 [![macOS 15+](https://img.shields.io/badge/macOS-15%2B-fff?style=flat-square&logo=apple&logoColor=white)](https://sequencetool.com)
@@ -13,8 +15,6 @@
 It helps podcast editors, video creators, and post-production teams transcribe recordings on-device, find the moments that matter, clean up the first pass, and move forward with a cut that is ready to export or continue in Final Cut Pro or DaVinci Resolve.
 
 [Visit Sequence Tool](https://sequencetool.com) · [Download Sequence](https://sequencetool.com/download) · [Report an issue](../../issues/new/choose)
-
-<img src="assets/sq-1.4.jpeg" alt="Sequence Tool editing a video transcript, with silence and filler words marked for removal and a clip timeline below">
 
 ## What Sequence does
 
